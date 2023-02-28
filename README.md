@@ -1,5 +1,5 @@
 # Romain
-![MasterHead](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
+<img align="center" alt="Masterhead" width="1000" src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg">
 <h1 align="center">Hi 👋, I'm Romain Dessalles</h1>
 <h3 align="center">A General Engineering and self-teaching Computer Science Student from France</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
