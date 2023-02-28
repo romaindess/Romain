@@ -1,23 +1,19 @@
 # Romain
 ![MasterHead](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
 <h1 align="center">Hi 👋, I'm Valery Arturovìcz Dumanyan</h1>
-<h3 align="center">A General Engineering and Computer Science Student from France</h3>
+<h3 align="center">A General Engineering and self-teaching Computer Science Student from France</h3>
 <img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [valery-arturovicz-dumanyan.dev](valery-arturovicz-dumanyan.dev)
+- 👨‍💻 All of my projects will soon be available at [romain-dessalles.dev](romain-dessalles.dev)
 
-- 💬 Ask me about **Advanced Maths, Machine & Deep Learning**
-
-- 📫 How to reach me **valery.dumanyan@ecam-strasbourg.eu**
+- 📫 How to reach me **romain.dessalles@ecam-strasbourg.eu**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arturovicz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arturovicz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/valery-dumanyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valery-dumanyan" height="30" width="40" /></a>
-<a href="https://instagram.com/v.arturovicz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v.arturovicz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/romain-dessalles-64312a223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romain-dessalles" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
