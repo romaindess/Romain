@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects will soon be available at [romain-dessalles.dev](romain-dessalles.dev)
+- 👨‍💻 All of my projects will soon be available at [romain-dessalles.netlify.app](romain-dessalles.netlify.app)
 
 - 📫 How to reach me **romain.dessalles@ecam-strasbourg.eu**
 
